@@ -10,9 +10,25 @@
     background-color: #101010;
 }
 .into main header{
-    width: 100px;
+    width: 1000px;
     height: 100%;
     display: block;
     margin: auto;
-
+    background-color: red;
+}
+.logo{
+    height: 100%;
+    float: left;
+    display: flex;
+    float: left;
+}
+.logo h1{
+    height: 100%;
+    font-weight: 200;
+    color: white;
+    vertical-align: middle;
+    font-size: 36px;
+}
+.logo h1 span{
+    font-weight: 800;
 }
